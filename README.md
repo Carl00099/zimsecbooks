@@ -28,7 +28,7 @@ This project provides a user-friendly, responsive web interface for students to 
 
 Check out the live version of the ZIMSEC Library to experience the smooth interface and easy navigation:
 
-🔗 **[VIEW LIVE WEBSITE HERE]([YOUR_LIVE_WEBSITE_LINK](https://zimsec-elonsk.vercel.app/))**
+🔗 **[VIEW LIVE WEBSITE HERE](https://zimsec-elonsk.vercel.app/)**
 
 ---
 
