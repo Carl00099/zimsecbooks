@@ -81,4 +81,4 @@ Use this channel to inquire about our web design services, custom resource pages
 ## 📂 Project Structure
 
 The repository follows a clean, easy-to-navigate structure:
-🤝 Contribution & ContactThis project is maintained by ELONSK TP. For support, questions, or to hire us for your own project:Email: elonsk.tp@gmail.comDirect WhatsApp Chat (for Services): Use the Heritage Based Projects Channel Link.
+🤝 Contribution & ContactThis project is maintained by ELONSK TP. For support, questions, or to hire us for your own project:Email:usokp99@gmail.comDirect WhatsApp Chat (for Services): Use the Heritage Based Projects Channel Link.
